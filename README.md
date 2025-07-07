@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Fernanda Duarte do Nascimento
-- Tel: (88)992629415  Email: fernanda4401@gmail.com
+- Email: fernanda4401@gmail.com
 
 - Ensino Medio Completo
 
