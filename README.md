@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Email: fernanda4401@gmail.com
+🌱 Atualmente estou estudando Programação Web no Senac Sobral
+💬 Gosto de conversar sobre informatica e tecnologia no geral
+📫 email -> fernanda4401@gmail.com
+😄 Ela/Dela
+⚡ Sou apaixanada por esportes no geral
 
 - Ensino Medio Completo
 
