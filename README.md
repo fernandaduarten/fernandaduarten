@@ -1,4 +1,4 @@
-## Olá 👋
+## Fernanda Duarte do Nascimento 👋
 
 <!--
 **fernandaduarten/fernandaduarten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Fernanda Duarte do Nascimento
 - Email: fernanda4401@gmail.com
 
 - Ensino Medio Completo
