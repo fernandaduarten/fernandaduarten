@@ -19,9 +19,3 @@ Here are some ideas to get you started:
 - 📫 email -> fernanda4401@gmail.com
 - 😄 Ela/Dela
 - ⚡ Jogar videogame é um dos meus passatempos favoritos
-
-- Ensino Medio Completo
-
-- Cursos: Informatica basica 72 horas de aula / Informatica avançada 108 horas de aula
-- Gestão em empreedimento econômico solidário  - IFCE Sobral 200 horas de aula
-- Introdução a Administração / Marketing - Universidade Estadual do Vale do Acarau 50 horas de aula
