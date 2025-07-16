@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 Atualmente estou estudando Programação Web no Senac Sobral
-- 💬 Gosto de conversar sobre tecnologia e esportes no geral
+- 💬 Apaixonada por Tecnologia e Educação
 - 📫 email -> fernanda4401@gmail.com
 - 😄 Ela/Dela
 - ⚡ Jogar videogame é um dos meus passatempos favoritos
