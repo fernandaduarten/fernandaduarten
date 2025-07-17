@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 💬 Apaixonada por Tecnologia e Educação
 - 📫 email -> fernanda4401@gmail.com
 - 😄 Ela/Dela
-- ⚡ Jogar videogame é um dos meus passatempos favoritos
+- ⚡ Jogar videogame e assistir esportes é um dos meus passatempos favoritos
