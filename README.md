@@ -1,7 +1,6 @@
 <!-- Banner ou saudação -->
 <h1 align="center">✨ Olá, eu sou a Fernanda Duarte ✨</h1>
 <p align="center">
- ---
   
 ## 🌸 Sobre mim
 Sou apaixonada por tecnologia e design, estudando e me dedicando para criar interfaces bonitas e funcionais com **HTML e CSS**.  
