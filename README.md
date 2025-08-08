@@ -1,21 +1,36 @@
-## Fernanda Duarte do Nascimento 👋
+<!-- Banner ou saudação -->
+<h1 align="center">✨ Olá, eu sou a Fernanda Duarte ✨</h1>
+<p align="center">
+---
 
-<!--
-**fernandaduarten/fernandaduarten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌸 Sobre mim
+Sou apaixonada por tecnologia e design, estudando e se me dedicando para criar interfaces bonitas e funcionais com **HTML e CSS**.  
+Busco sempre melhorar minhas habilidades e transformar ideias em projetos reais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 Atualmente estou estudando Programação Web no Senac Sobral
-- 💬 Apaixonada por Tecnologia e Educação
-- 📫 email -> fernanda4401@gmail.com
-- 😄 Ela/Dela
-- ⚡ Jogar videogame e assistir esportes é um dos meus passatempos favoritos
+## 🎯 Estudando sobre
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-8e44ad?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/GitHub-8e44ad?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+---
+
+## 📫 Conecte-se comigo
+<p align="center">
+  <a href="https://github.com/fernandaduarten">
+    <img src="https://img.shields.io/badge/GitHub-8e44ad?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="(https://www.instagram.com/fernandaduarten/)">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Feito com 💜 e 🌸 por <b>Fernanda Duarte</b>
+</p>
