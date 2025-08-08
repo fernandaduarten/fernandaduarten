@@ -5,7 +5,6 @@
 ## 🌸 Sobre mim
 Sou apaixonada por tecnologia e design, estudando e me dedicando para criar interfaces bonitas e funcionais com **HTML e CSS**.  
 Busco sempre melhorar minhas habilidades e transformar ideias em projetos reais.
----
 ## 🎯 Tecnologias e Ferramentas
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-ff69b4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -13,7 +12,6 @@ Busco sempre melhorar minhas habilidades e transformar ideias em projetos reais.
   <img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/PHP-8e44ad?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
----
 ## 📫 Conecte-se comigo
 <p align="center">
   <a href="https://github.com/fernandaduarten">
